@@ -1,0 +1,19 @@
+1. Layout - wydarzenieOsobno
+2. Edit/ Delete wydarzenie wydarzenieOsobno
+3. Lista akutalnosci - dopasowac do ekranów/ maksymalna liczba znaków? / flex rozmiar, bo chyba jest hardcoded, poprawic UI
+4. Model galeria obrazów, model - dodawanie plików do downloadów (wydarzenieOsobno)
+5. Layout - coRobimy (projekty, dotajce, usługi)
+6. ListaAktualnosci - error handling, empty list handling, loading handling, 404 handling
+7. O Fundacji layout (inna lista?), - text. 
+8. Dodaj wydarzenie form - client side - obowiazkowe pola handling, rozmiar ekrnaow  ckeditor?, error handling? maksymalna ilosc znakow preview (ile sie miesci w karcie)
+9. NavBar - ikona menu na małym ekranie, active?, 
+10. karuzela - strzalki w boki
+11. Searching, (nabar, dodadc w lista aktualnosci)
+12. Form w kontakcie (submit handling)
+13. Jak nie ma bacekndu up to w ogóle się nie wyświetla ListaAkutalności
+
+
+--------------------------------------
+Testing
+1. Unity testinh
+2. Selenium?

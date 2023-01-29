@@ -1,0 +1,8 @@
+https://mdbootstrap.com/docs/react/layout/flexbox/
+
+
+https://medium.com/@dakota.lillie/django-react-jwt-authentication-5015ee00ef9a
+
+https://stackoverflow.com/questions/72102911/could-not-import-rest-framework-jwt-authentication-jsonwebtokenauthentication
+
+https://medium.com/@poorva59/implementing-simple-jwt-authentication-in-django-rest-framework-3e54212f14da

@@ -1,0 +1,6 @@
+.newsPhoto {
+  width: 300px;
+  height: 200px;
+  -o-object-fit: cover;
+     object-fit: cover;
+}/*# sourceMappingURL=wydarzenie.css.map */

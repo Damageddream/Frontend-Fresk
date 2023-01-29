@@ -1,0 +1,16 @@
+#freskPhoto {          
+    background-position: center center;  
+    min-width: 500px;
+    min-height: 270px;
+    max-height: auto;
+    max-width: auto;
+    position: relative;
+}
+
+.logoContainer {
+    
+    display: flex;
+    height: 300px;
+    align-items: center;
+    justify-content: center;
+}

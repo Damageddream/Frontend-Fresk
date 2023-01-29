@@ -1,0 +1,5 @@
+react, react-router-dom
+django, django-rest-framework, 
+boostrap, mdb-react-ui-kit,
+Django: corsheaders, pillow, djangorestframework-jwt
+JS: moment, axios, draft.js, draftjs-to-html, React Image Gallery
