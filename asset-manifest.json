@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Frontend-Fresk/static/css/main.7c6f793f.css",
+    "main.js": "/Frontend-Fresk/static/js/main.34a60f3c.js",
+    "static/js/787.cda612ba.chunk.js": "/Frontend-Fresk/static/js/787.cda612ba.chunk.js",
+    "static/media/kurs.jpg": "/Frontend-Fresk/static/media/kurs.6cb8fd3dc6adfa7104d7.jpg",
+    "static/media/bar.jpg": "/Frontend-Fresk/static/media/bar.1d52865c6aee5320bdcf.jpg",
+    "static/media/news.jpg": "/Frontend-Fresk/static/media/news.6b4adb04ae956431f951.jpg",
+    "static/media/sala.jpg": "/Frontend-Fresk/static/media/sala.d3705460fa5b33ee8b54.jpg",
+    "static/media/eu.jpg": "/Frontend-Fresk/static/media/eu.3b26dd8ad27d9006d41e.jpg",
+    "static/media/zlobek.jpg": "/Frontend-Fresk/static/media/zlobek.d11c6162800acb6e9c15.jpg",
+    "static/media/dron.jpg": "/Frontend-Fresk/static/media/dron.e817d2b0f2f4af3ea3d5.jpg",
+    "static/media/Magda.png": "/Frontend-Fresk/static/media/Magda.205b05668943426c8cae.png",
+    "static/media/Marcin.png": "/Frontend-Fresk/static/media/Marcin.5a790ad657aaa0d31386.png",
+    "static/media/Hania.png": "/Frontend-Fresk/static/media/Hania.f9f5fb331109e28843de.png",
+    "static/media/barista.jpg": "/Frontend-Fresk/static/media/barista.f2239c4a532a933fc242.jpg",
+    "static/media/fresk-logo-beznapi.png": "/Frontend-Fresk/static/media/fresk-logo-beznapi.6123ecc83c71902cdf99.png",
+    "static/media/fresk-logo.png": "/Frontend-Fresk/static/media/fresk-logo.f0f5028adab135d0fe4c.png",
+    "static/media/dotacje.png": "/Frontend-Fresk/static/media/dotacje.9a742ac8251fb56a5153.png",
+    "static/media/rece.png": "/Frontend-Fresk/static/media/rece.65bcad809362961ab098.png",
+    "index.html": "/Frontend-Fresk/index.html",
+    "main.7c6f793f.css.map": "/Frontend-Fresk/static/css/main.7c6f793f.css.map",
+    "main.34a60f3c.js.map": "/Frontend-Fresk/static/js/main.34a60f3c.js.map",
+    "787.cda612ba.chunk.js.map": "/Frontend-Fresk/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c6f793f.css",
+    "static/js/main.34a60f3c.js"
+  ]
+}
